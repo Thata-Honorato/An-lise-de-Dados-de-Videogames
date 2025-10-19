@@ -89,4 +89,6 @@ Os revisores avaliarão:
 - Comentários explicativos a cada etapa.
 
 ---
-
+**OBSERVAÇÃO**
+Todos os notebooks originais estão hospedados na plataforma TripleTen e não podem ser alterados.
+Este repositório documenta o projeto e o aprendizado adquirido.
